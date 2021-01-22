@@ -127,6 +127,8 @@
 
 - typora:    Markdown
 
+##### REPL：
+- ptpython: 目前发现的&最好用的Python-REPL工具，可完美替代python原生交互模式以及IPython
 
 
 ##### KDE插件：
