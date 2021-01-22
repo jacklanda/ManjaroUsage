@@ -145,6 +145,7 @@
 
 ##### 有意思的小玩意:
 
+- asciinema(cli): shell命令行录屏工具
 - figlet (cli):	ascii艺术字生成工具
 - translate-shell (cli):    命令行在线翻译工具
 - memo:　Manjaro论坛上一个老哥写的下拉式便笺
