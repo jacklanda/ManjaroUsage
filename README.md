@@ -156,4 +156,5 @@
 - tldr: 我用它替代了 info 命令
 - rg: 听说是用 Rust 实现的，性能比 grep 要好
 - fd: find 的完美替代，同为 Rust 实现
+- termchat: 一个Rust实现的无服务器局域网终端聊天工具
 
