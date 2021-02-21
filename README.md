@@ -67,7 +67,7 @@
 
 ##### 社交：
 
-- 微信：deepin-wine-wechat-2.7.1
+- 微信：1. deepin-wine-wechat-2.7.1   2. uos统信魔改版（AUR）
 - QQ：deepin.com.qq.office-2.0.0_4-2
 - 电报：telegram-desktop-2.1.18pre-0.1
 
@@ -95,11 +95,13 @@
 
 
 
-##### 订阅：
+##### RSS订阅：
+
+- Fluent Reader（一个基于electron实现的订阅应用）
+
+- akregator（一个轻量的图形界面订阅应用）
 
 - newsboat (cli)
-
-- Raven Reader
 
 
 ##### 备份工具：
@@ -157,4 +159,5 @@
 - rg: 听说是用 Rust 实现的，性能比 grep 要好
 - fd: find 的完美替代，同为 Rust 实现
 - termchat: 一个Rust实现的无服务器局域网终端聊天工具
+- cloc: 代码行数统计工具（cli）
 
