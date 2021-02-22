@@ -70,6 +70,7 @@
 - 微信：1. deepin-wine-wechat-2.7.1   2. uos统信魔改版（AUR）
 - QQ：deepin.com.qq.office-2.0.0_4-2
 - 电报：telegram-desktop-2.1.18pre-0.1
+- 钉钉：dingtalk-linux
 
 
 
