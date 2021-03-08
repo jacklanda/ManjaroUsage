@@ -76,6 +76,7 @@
 
 ##### 下载工具：
 
+- BaiduPCS：Golang实现的百度网盘命令行终端
 - 迅雷：deepin.com.thunderspeed-7.10.35-1
 - wget (cli)
 - curl (cli)
