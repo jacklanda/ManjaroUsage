@@ -88,6 +88,7 @@
 - VLC
 - 网易云音乐
 - OBS Studio（录屏工具）
+- ffmpeg（流媒体编辑工具）
 
 
 
